@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GwizBilly
 - 👀 I’m interested in amateur programming(mostly esp32 microcontroller).
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently putting together an mp3 player, with an esp32.
 - 💞️ I’m not looking to collaborate on anything, since I only code in my spare time.
 - 📫 I can be reached at f.flat.minor@gmail.com
 
